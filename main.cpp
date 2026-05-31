@@ -54,7 +54,7 @@ public:
         }
 
         file.close();
-        cout << "History Save to \"History.txt\" file\n";
+        cout << "History Saved to \"History.txt\" file\n";
 
     }
 
@@ -195,7 +195,7 @@ public:
 
         current = current->next;
 
-        cout << "went forward to: " << current->url << "\n";
+        cout << "Went forward to: " << current->url << "\n";
     }
     
     void showFullHistory() {
