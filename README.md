@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Browser History Simulator (DLL)
 
 ## Description
@@ -21,3 +22,8 @@ g++ main.cpp
 
 ## Author
 ANUJ KUMAR
+=======
+# Browser-history-management
+1sr dsa project usong DLL
+Author : Anuj Kumar
+>>>>>>> 64a9c549ae657aeed230c5ef8a44a697497ea40b
